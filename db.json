@@ -19,7 +19,7 @@
   {
     "id":3,
     "category":"concert",
-    "title": "Tomorrow Land",
+    "title": "pinkpop",
     "description": "Festival op de Schorre",
     "location": "Boom",
     "date": "August 08 2021",
@@ -28,7 +28,7 @@
   {
     "id":4,
     "category":"concert",
-    "title": "Rock Werchter",
+    "title": "dranouter",
     "description": "Festival Rock",
     "location": "Werchter",
     "date": "July 04 2021",
